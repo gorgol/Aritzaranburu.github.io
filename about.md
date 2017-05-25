@@ -8,6 +8,4 @@ I am a junior Ruby / Ruby on Rails developer. I have acquired my previous work e
 
 ### Check my projects on [GitHub](https://github.com//Aritzaranburu)
 
-### Contact me
-
-[piotrmateuszmajewski@gmail.com](mailto:piotrmateuszmajewski@gmail.com)
+### [Contact me](mailto:piotrmateuszmajewski@gmail.com)
